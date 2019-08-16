@@ -13,5 +13,8 @@ public class test1 {
     private String 属性1版本2;
     private String 属性2版本2;
 
+    private String 属性1版本3;
+    private String 属性2版本3;
+
 
 }
